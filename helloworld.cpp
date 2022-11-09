@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "Nouvelle branche en teste" << std::endl;
+    std::cout << "Je change le code de la branch new_algo" << std::endl;
 }
