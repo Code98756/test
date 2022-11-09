@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "Nouvelle branche en teste" << std::endl;
+    std::cout << "Nouvelle version" << std::endl;
 }
