@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "Nouvelle version" << std::endl;
+    std::cout << "Nouvelle version pour new_branch" << std::endl;
 }
